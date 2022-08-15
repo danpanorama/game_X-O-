@@ -37,7 +37,7 @@ showPage(exe,computer){
 
 //   item.addEventListener('click',mafunc);
 
-// });
+// });  
  
 // function mafunc(e){
 //   div.forEach((val,index)=>{
@@ -57,7 +57,7 @@ showPage(exe,computer){
 // }
 
 
-
+console.log("hay")
 
 }
 }
